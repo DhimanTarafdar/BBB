@@ -4,3 +4,4 @@
 - What is Embedding
 - Berif idea about word to
 - 1
+- 2
